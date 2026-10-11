@@ -187,13 +187,6 @@ git clone https://github.com/codepaila/hand-tracking-galaxy.git
 cd hand-tracking-galaxy
 ```
 
-If that URL is not reachable for you, replace it with your own fork or mirror:
-
-```bash
-git clone <YOUR_REPOSITORY_URL>
-cd hand-tracking-galaxy
-```
-
 ## Install Dependencies
 
 ```bash
